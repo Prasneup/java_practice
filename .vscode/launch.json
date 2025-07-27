@@ -1,0 +1,420 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "PoissonDistribution",
+            "request": "launch",
+            "mainClass": "PoissonDistribution",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        },
+        {
+            "type": "java",
+            "name": "Array",
+            "request": "launch",
+            "mainClass": "Array",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Break",
+            "request": "launch",
+            "mainClass": "Break",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        },
+        {
+            "type": "java",
+            "name": "Car",
+            "request": "launch",
+            "mainClass": "Car",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        },
+        {
+            "type": "java",
+            "name": "CharToInteger",
+            "request": "launch",
+            "mainClass": "CharToInteger",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        },
+        {
+            "type": "java",
+            "name": "Continue",
+            "request": "launch",
+            "mainClass": "Continue",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        },
+        {
+            "type": "java",
+            "name": "Convert",
+            "request": "launch",
+            "mainClass": "Convert",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        },
+        {
+            "type": "java",
+            "name": "Convert2",
+            "request": "launch",
+            "mainClass": "Convert2",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        },
+        {
+            "type": "java",
+            "name": "CreateFileHandling",
+            "request": "launch",
+            "mainClass": "CreateFileHandling",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        },
+        {
+            "type": "java",
+            "name": "CreateTextFile",
+            "request": "launch",
+            "mainClass": "CreateTextFile",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        },
+        {
+            "type": "java",
+            "name": "DecimalPlaces",
+            "request": "launch",
+            "mainClass": "DecimalPlaces",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        },
+        {
+            "type": "java",
+            "name": "DeleteFile",
+            "request": "launch",
+            "mainClass": "DeleteFile",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        },
+        {
+            "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "Demo",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        },
+        {
+            "type": "java",
+            "name": "ExceptionHandling1",
+            "request": "launch",
+            "mainClass": "ExceptionHandling1",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        },
+        {
+            "type": "java",
+            "name": "FileDelete",
+            "request": "launch",
+            "mainClass": "FileDelete",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        },
+        {
+            "type": "java",
+            "name": "FloatingNumber",
+            "request": "launch",
+            "mainClass": "FloatingNumber",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        },
+        {
+            "type": "java",
+            "name": "ForLoop",
+            "request": "launch",
+            "mainClass": "ForLoop",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        },
+        {
+            "type": "java",
+            "name": "GFG",
+            "request": "launch",
+            "mainClass": "GFG",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        },
+        {
+            "type": "java",
+            "name": "Input",
+            "request": "launch",
+            "mainClass": "Input",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        },
+        {
+            "type": "java",
+            "name": "IntegerUser",
+            "request": "launch",
+            "mainClass": "IntegerUser",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        },
+        {
+            "type": "java",
+            "name": "LInkedListToArray",
+            "request": "launch",
+            "mainClass": "LInkedListToArray",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        },
+        {
+            "type": "java",
+            "name": "Loop",
+            "request": "launch",
+            "mainClass": "Loop",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        },
+        {
+            "type": "java",
+            "name": "Loop2",
+            "request": "launch",
+            "mainClass": "Loop2",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        },
+        {
+            "type": "java",
+            "name": "Make100File",
+            "request": "launch",
+            "mainClass": "Make100File",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        },
+        {
+            "type": "java",
+            "name": "Method",
+            "request": "launch",
+            "mainClass": "Method",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        },
+        {
+            "type": "java",
+            "name": "Name",
+            "request": "launch",
+            "mainClass": "Name",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        },
+        {
+            "type": "java",
+            "name": "Numbers",
+            "request": "launch",
+            "mainClass": "Numbers",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        },
+        {
+            "type": "java",
+            "name": "OctalToDecimal",
+            "request": "launch",
+            "mainClass": "OctalToDecimal",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        },
+        {
+            "type": "java",
+            "name": "OddorEven",
+            "request": "launch",
+            "mainClass": "OddorEven",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        },
+        {
+            "type": "java",
+            "name": "ParameterAndReturn",
+            "request": "launch",
+            "mainClass": "ParameterAndReturn",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        },
+        {
+            "type": "java",
+            "name": "ParameterandReturn2",
+            "request": "launch",
+            "mainClass": "ParameterandReturn2",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        },
+        {
+            "type": "java",
+            "name": "ParameterandReturn3",
+            "request": "launch",
+            "mainClass": "ParameterandReturn3",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        },
+        {
+            "type": "java",
+            "name": "ParameterandReturn4",
+            "request": "launch",
+            "mainClass": "ParameterandReturn4",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        },
+        {
+            "type": "java",
+            "name": "PosNegZero",
+            "request": "launch",
+            "mainClass": "PosNegZero",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        },
+        {
+            "type": "java",
+            "name": "Practice",
+            "request": "launch",
+            "mainClass": "Practice",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        },
+        {
+            "type": "java",
+            "name": "Practice2",
+            "request": "launch",
+            "mainClass": "Practice2",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        },
+        {
+            "type": "java",
+            "name": "Practice3",
+            "request": "launch",
+            "mainClass": "Practice3",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        },
+        {
+            "type": "java",
+            "name": "Practice4",
+            "request": "launch",
+            "mainClass": "Practice4",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        },
+        {
+            "type": "java",
+            "name": "Practice5",
+            "request": "launch",
+            "mainClass": "Practice5",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        },
+        {
+            "type": "java",
+            "name": "PracticeCreateTextFile",
+            "request": "launch",
+            "mainClass": "PracticeCreateTextFile",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        },
+        {
+            "type": "java",
+            "name": "PracticeObjAndClass",
+            "request": "launch",
+            "mainClass": "PracticeObjAndClass",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        },
+        {
+            "type": "java",
+            "name": "PrintName",
+            "request": "launch",
+            "mainClass": "PrintName",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        },
+        {
+            "type": "java",
+            "name": "QuotientRemainder",
+            "request": "launch",
+            "mainClass": "QuotientRemainder",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        },
+        {
+            "type": "java",
+            "name": "RemoveWhitespaces",
+            "request": "launch",
+            "mainClass": "RemoveWhitespaces",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        },
+        {
+            "type": "java",
+            "name": "SimpeInterest",
+            "request": "launch",
+            "mainClass": "SimpeInterest",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        },
+        {
+            "type": "java",
+            "name": "SpaceandTime",
+            "request": "launch",
+            "mainClass": "SpaceandTime",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        },
+        {
+            "type": "java",
+            "name": "SquareNumber",
+            "request": "launch",
+            "mainClass": "SquareNumber",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        },
+        {
+            "type": "java",
+            "name": "StringName",
+            "request": "launch",
+            "mainClass": "StringName",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        },
+        {
+            "type": "java",
+            "name": "SumLoop",
+            "request": "launch",
+            "mainClass": "SumLoop",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        },
+        {
+            "type": "java",
+            "name": "SwapNumber",
+            "request": "launch",
+            "mainClass": "SwapNumber",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        },
+        {
+            "type": "java",
+            "name": "Switch",
+            "request": "launch",
+            "mainClass": "Switch",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        },
+        {
+            "type": "java",
+            "name": "TernaryWork",
+            "request": "launch",
+            "mainClass": "TernaryWork",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        },
+        {
+            "type": "java",
+            "name": "TimeComplexity",
+            "request": "launch",
+            "mainClass": "TimeComplexity",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        },
+        {
+            "type": "java",
+            "name": "User",
+            "request": "launch",
+            "mainClass": "User",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        },
+        {
+            "type": "java",
+            "name": "VowelorConst",
+            "request": "launch",
+            "mainClass": "VowelorConst",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        },
+        {
+            "type": "java",
+            "name": "objectClass",
+            "request": "launch",
+            "mainClass": "objectClass",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        },
+        {
+            "type": "java",
+            "name": "printOneToTen",
+            "request": "launch",
+            "mainClass": "printOneToTen",
+            "projectName": "JavaQuestionsPractice_1b299920"
+        }
+    ]
+}

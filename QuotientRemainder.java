@@ -8,6 +8,7 @@ public class QuotientRemainder {
 
         System.out.println("the quotient is "+quo);
         System.out.println("The remainder is "+rem);
+
     }
     
 }
